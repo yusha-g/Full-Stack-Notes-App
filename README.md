@@ -9,8 +9,8 @@ A full‑stack web application built with Django (REST API) and React (frontend)
 - [ ] Dockerized setup with docker-compose
 
 ## Tech Stack
-Backend: Django, Django REST Framework, SimpleJWT
+- Backend: Django, Django REST Framework, SimpleJWT
 
-Frontend: React, React Router, Axios, JWT-Decode
+- Frontend: React, React Router, Axios, JWT-Decode
 
-Containerization: Docker, Docker Compose
+- Containerization: Docker, Docker Compose

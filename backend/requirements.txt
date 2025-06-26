@@ -1,0 +1,4 @@
+Django<4.2
+django-stubs<1.16
+PyJWT==2.8.0
+python-dotenv==1.0.1
